@@ -1,7 +1,7 @@
 # Hi 👋, I'm Forhad Hossain 
 ### Diploma Engineer in Computer Technology & CSE Undergraduate
 
-I am a passionate **Computer Technology professional** [cite: 2] [cite_start]currently pursuing my **B.Sc. in Computer Science & Engineering** at Dhaka International University[cite: 8, 11]. I love exploring new technologies and building web-based solutions.
+I am a passionate **Computer Technology professional** currently pursuing my **B.Sc. in Computer Science & Engineering** at Dhaka International University. I love exploring new technologies and building web-based solutions.
 
 ---
 
@@ -15,9 +15,9 @@ I am a passionate **Computer Technology professional** [cite: 2] [cite_start]cur
 ---
 
 ### 🛠 Tech Stack & Skills
-**Programming Languages:** C, Basic Java, HTML, CSS, JavaScript (Basic).
-**CMS & Web:** WordPress, Shopify, Wix[cite: 39].
-**Networking:** CCNA, Internet Technology[cite: 27, 34].
+**Programming Languages:** HTML, CSS, JavaScript (Basic).
+**CMS & Web:** WordPress, Shopify, Wix.
+**Networking:** CCNA, Internet Technology.
 **Design & Tools:** Photoshop, Android Studio, MS Office Package.
 **Operating Systems:** Windows (XP to Windows 11).
 
