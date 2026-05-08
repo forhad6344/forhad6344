@@ -1,4 +1,4 @@
-# Hi 👋, I'm Forhad Hossain 
+# Hi, I'm Forhad Hossain 
 ### Diploma Engineer in Computer Technology & CSE Undergraduate
 
 I am a passionate **Computer Technology professional** currently pursuing my **B.Sc. in Computer Science & Engineering** at Dhaka International University. I love exploring new technologies and building web-based solutions.
@@ -24,7 +24,7 @@ I am a passionate **Computer Technology professional** currently pursuing my **B
 ---
 
 ### 📊 GitHub Stats
-![Forhad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME_HERE&show_icons=true&theme=radical)
+(https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME_HERE&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME_HERE&layout=compact&theme=radical)
 
 ---
